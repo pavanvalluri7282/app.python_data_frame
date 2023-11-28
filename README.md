@@ -44,17 +44,17 @@ Installing Anaconda Navigator and Starting Jupyter Notebooks
 5. A CSV file is generated containing the records of the top 1000 YouTube channels. Subsequently, the data is loaded into a DataFrame, and employing the .to_sql() method, the contents of the Python DataFrame are transferred into MySQL Workbench.
 6. A verification process is conducted in MySQL Workbench, wherein a select query confirms the successful loading of all 1000 records into the MySQL table.
 
-## Built With
+### Built With
 
 * [Anacoda Navigator 2.4.3 - Jupyter Notebook 6.5.4](https://www.anaconda.com/download) - Code in Python
 * [MySQL Workbench 8.0.35](https://dev.mysql.com/downloads/windows/installer/8.0.html) - Database to store the results
 
-## Authors
+### Authors
 
 * Pavan Kumar V - [pavanvalluri7282](https://github.com/pavanvalluri7282)
 * Narahara Karthik L - [Karthiklnk](https://github.com/Karthiklnk)
 
-## License
+### License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
